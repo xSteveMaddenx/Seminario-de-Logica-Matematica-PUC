@@ -1,4 +1,4 @@
-Seminario de Lógica Matemática PUC
+## Bienvenido al Repositorio del Seminario de Lógica Matemática
 
 Este repositorio contiene el material de apoyo desarrollado para las sesiones del seminario. **Durante el primer semestre de 2026 estamos enfocando las reuniones en el estudio de Teoría de Conjuntos**.
 
