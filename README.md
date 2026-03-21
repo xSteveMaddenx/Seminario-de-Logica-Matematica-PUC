@@ -1,6 +1,6 @@
-## Bienvenido al Repositorio del Seminario de Lógica Matemática
+## 🧭 Bienvenido al Repositorio del Seminario de Lógica Matemática
 
-Este repositorio contiene el material de apoyo desarrollado para las sesiones del seminario. **Durante el primer semestre de 2026 estamos enfocando las reuniones en el estudio de Teoría de Conjuntos**.
+Este repositorio contiene los apuntes de las sesiones y material de investigación de los participantes. **Durante el primer semestre de 2026 estamos enfocando las reuniones en el estudio de Teoría de Conjuntos**.
 
 Contacto: lucas.garrido@uc.cl
 
@@ -13,9 +13,10 @@ Contacto: lucas.garrido@uc.cl
 
 El contenido se organiza de la siguiente manera:
 
-* `/Teoria de Conjuntos (2026-1)`: Resúmenes y apuntes de las sesiones del semestre en curso.
-* `/Semestres anteriores`: Material de versiones anteriores del seminario.
 * `/Investigaciones`: Investigaciones y trabajos de los participantes.
+* `/Teoria de Conjuntos (2026-1)`: Resúmenes y apuntes de las sesiones del semestre en curso.
+* `/LaTeX`: Plantilla para escribir apuntes de reuniones.
+* `/Semestres anteriores`: Material de versiones anteriores del seminario.
 
 ---
 *Seminario de Lógica Matemática - Facultad de Matemáticas UC*
