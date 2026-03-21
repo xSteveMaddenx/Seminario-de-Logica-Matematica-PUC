@@ -6,7 +6,7 @@ Este repositorio contiene el material de apoyo desarrollado para las sesiones de
 
 * **P. Suppes**, *Axiomatic Set Theory*. 
 * **H. Enderton**, *An Introduction to Set Theory*.
-* 
+  
 ## 🗂️ Estructura del Repositorio
 
 El contenido se organiza de la siguiente manera:
