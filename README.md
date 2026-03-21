@@ -2,6 +2,8 @@
 
 Este repositorio contiene el material de apoyo desarrollado para las sesiones del seminario. **Durante el primer semestre de 2026 estamos enfocando las reuniones en el estudio de Teoría de Conjuntos**.
 
+Contacto: lucas.garrido@uc.cl
+
 ## 📚 Bibliografía
 
 * **P. Suppes**, *Axiomatic Set Theory*. 
