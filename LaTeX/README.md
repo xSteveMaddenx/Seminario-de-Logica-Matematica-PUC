@@ -5,11 +5,12 @@ En esta carpeta se encuentra la plantilla utilizada para la confección de apunt
 El repositorio incluye el archivo template.zip, el cual contiene la estructura completa del proyecto para su uso directo en Overleaf o cualquier distribución local de LaTeX. Asimismo, se adjunta plantilla.pdf como una previsualización terminada, permitiendo revisar el diseño final, los entornos matemáticos y la jerarquía visual.
 
 ## 📂 Estructura del Proyecto
+```text
 .
 ├── main.tex             # Archivo principal (aquí se escribe el contenido)
 ├── config/
 │   ├── preambulo.sty    # Carga de paquetes, macros y entornos de teoremas
-│   └── portada.sty     # Configuración del título, autores y afiliación
+│   └── portada.sty      # Configuración del título, autores y afiliación
 └── img/                 # Repositorio de imágenes y logos
 
 ## 🚀 Guía de Uso
