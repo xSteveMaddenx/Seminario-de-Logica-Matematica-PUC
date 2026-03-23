@@ -12,6 +12,7 @@ El repositorio incluye el archivo template.zip, el cual contiene la estructura c
 │   ├── preambulo.sty    # Carga de paquetes, macros y entornos de teoremas
 │   └── portada.sty      # Configuración del título, autores y afiliación
 └── img/                 # Repositorio de imágenes y logos
+```
 
 ## 🚀 Guía de Uso
 1. Metadatos
