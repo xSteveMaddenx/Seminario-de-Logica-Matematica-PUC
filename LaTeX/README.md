@@ -1,7 +1,7 @@
-## Plantilla de Apuntes
+## 📝 Plantilla de Apuntes
 En esta carpeta se encuentra la plantilla utilizada para la confección de apuntes y minutas del seminario. El diseño del documento es modular, de manera que los parámetros son sencillos de modificar en caso de que se quiera adaptar para exposiciones de otra instancia.
 
-## 📦Archivos
+## 📦 Archivos
 El repositorio incluye el archivo template.zip, el cual contiene la estructura completa del proyecto para su uso directo en Overleaf o cualquier distribución local de LaTeX. Asimismo, se adjunta plantilla.pdf como una previsualización terminada, permitiendo revisar el diseño final, los entornos matemáticos y la jerarquía visual.
 
 ## 📂 Estructura del Proyecto
