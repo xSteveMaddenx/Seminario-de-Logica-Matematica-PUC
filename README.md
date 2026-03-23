@@ -14,9 +14,9 @@ Contacto: lucas.garrido@uc.cl
 El contenido se organiza de la siguiente manera:
 
 * `/Investigaciones`: Investigaciones y trabajos de los participantes.
-* `/Teoria de Conjuntos (2026-1)`: Resúmenes y apuntes de las sesiones del semestre en curso.
 * `/LaTeX`: Plantilla para escribir apuntes de reuniones.
 * `/Semestres anteriores`: Material de versiones anteriores del seminario.
+* `/Teoria de Conjuntos (2026-1)`: Resúmenes y apuntes de las sesiones del semestre en curso.
 
 ---
 *Seminario de Lógica Matemática - Facultad de Matemáticas UC*
